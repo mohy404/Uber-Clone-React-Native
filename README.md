@@ -8,8 +8,8 @@ A cross-platform Uber clone app built with React Native, Expo
 
 ## Features
 
-- Cross platform (Web, iOS, Android)
-- Pick origin and destination
+- Cross-platform (Web, iOS, Android)
+- Pick the origin and destination
 - Pick ride type (UberX, Uber XL, Uber LUX)
 - Show fare and travel distance
 - Show travel time
@@ -19,7 +19,7 @@ A cross-platform Uber clone app built with React Native, Expo
 Clone the project
 
 ```bash
-  git clone https://github.com/emmanuelchucks/react-native-uber-clone.git
+  git clone https://github.com/mohy404/Uber-Clone-React-Native.git
 ```
 
 Go to the project directory
