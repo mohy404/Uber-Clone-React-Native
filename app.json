@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "UberClone",
-    "slug": "UberClone",
+    "slug": "uber-clone",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -27,6 +27,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "90d51baa-536c-4083-9715-500cc2cc2425"
+      }
+    },
+    "owner": "mohy404"
   }
 }
